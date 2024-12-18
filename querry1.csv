@@ -1,0 +1,7 @@
+"message_id","user_id","user_is_bot","user_first_name","chat_id","chat_type","text","date","context_date"
+"11","6421189136","false","Erick","-1002284173117","supergroup","Vamos testar a integração","1733958882","2024-12-11"
+"12","6421189136","false","Erick","-1002284173117","supergroup","entre a api de bots do telegram","1733958934","2024-12-11"
+"13","6421189136","false","Erick","-1002284173117","supergroup","e a etapa de ingestão analítica pelo aws gateway","1733958949","2024-12-11"
+"11","6421189136","false","Erick","-1002284173117","supergroup","Vamos testar a integração","1733958882","2024-12-12"
+"12","6421189136","false","Erick","-1002284173117","supergroup","entre a api de bots do telegram","1733958934","2024-12-12"
+"13","6421189136","false","Erick","-1002284173117","supergroup","e a etapa de ingestão analítica pelo aws gateway","1733958949","2024-12-12"
